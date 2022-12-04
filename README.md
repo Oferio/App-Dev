@@ -6,7 +6,7 @@ My first repository
 </div>
 <dl> <dt>About Me:</dt>
   
-+ 💻 I love watching anime.
++ :computer: I love watching anime.
 + 🧙🧚🦸🧞‍♀️ I have a collection of anime action figures. 
-+ 🌎 I want to travel around the world.
++ :earth_asia: I want to travel around the world.
 + 👩‍💻 I want to be a successful IT Analyst.
